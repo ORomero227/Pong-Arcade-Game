@@ -19,7 +19,7 @@ A simple recreation of the classic Pong game built using Python's Turtle graphic
     ```
 3. Navigate to the project directory:
     ```bash
-    cd pong-game
+    cd Pong-Arcade-Game
     ```
 4. Ensure you have the Turtle module installed. Turtle is a standard Python library, so no additional installation should be needed.
 
